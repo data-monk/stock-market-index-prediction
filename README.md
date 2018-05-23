@@ -34,8 +34,7 @@ Inputs are are mapped using sin, cosine and square function.The fully connceted 
 The network performed well on both train and test set. The Mean Square Error was as low as 0.00014472.
 
 The following plot shows predicted and original values of the S&P 500 stock market index.
-
-![S&P index value predictions_50_days](S&P index value predictions_50_days.png)
+![S&P index value predictions_50_days](./S&P index value predictions_50_days.png)
 
 
 
