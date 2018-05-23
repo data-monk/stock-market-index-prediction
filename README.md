@@ -35,7 +35,7 @@ The network performed well on both train and test set. The Mean Square Error was
 
 The following plot shows predicted and original values of the S&P 500 stock market index.
 
-<<<<<<< HEAD
+
 ![S&P index value predictions_50_days](predictions_50_days.png)
 
 
@@ -43,6 +43,3 @@ The following plot shows predicted and original values of the S&P 500 stock mark
 ```python
 
 ```
-=======
-![S&P index value predictions_50_days](S&P index value predictions_50_days.png)
->>>>>>> cb9d322d2a17979e28dbd6c1c6bf2cb3aae48f9b
